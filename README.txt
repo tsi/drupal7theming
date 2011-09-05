@@ -1,5 +1,5 @@
-h1. Usefull theme stuff
-h3. Documentation
+#Usefull theme stuff
+###Documentation
 
     http://api.drupal.org
     Theme guide - http://drupal.org/theme-guide/6-7
@@ -12,7 +12,7 @@ h3. Documentation
     Front End Drupal: Designing, Theming, Scripting by Konstantin Kafer, Emma Hogbin.
 
 
-h3. Tools
+###Tools
 
     Firebug - http://getfirebug.com
     Devel - http://drupal.org/project/devel
