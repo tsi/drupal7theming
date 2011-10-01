@@ -1,4 +1,3 @@
-
 /**
  * Generic elements.
  */
@@ -209,6 +208,9 @@ ol.task-list li {
 ol.task-list li.active {
   background: transparent url(images/task-item-rtl.png) no-repeat right 50%;
   padding: 0.5em 20px 0.5em 1em;
+}
+ol.task-list li.done {
+  background: transparent url(images/task-check.png) no-repeat right 50%;
 }
 
 /* Overlay theming */
